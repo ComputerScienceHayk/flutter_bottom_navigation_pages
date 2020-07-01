@@ -1,3 +1,4 @@
+![img alt](https://github.com/ComputerScienceHayk/flutter_bottom_navigation_pages/blob/master/bottom_nav.gif)
 # test_all
 
 A new Flutter application.
